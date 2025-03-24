@@ -113,6 +113,14 @@ window.addEventListener("resize", () => {
 })
 
 
+window.addEventListener("DOMContentLoaded", () => {
+  setTimeout(() => {
+    document.getElementById("loading_con").classList.remove("loading")
+    document.getElementById("loading_con").classList.add("hidden")
+  }, 3000)
+})
+
+
 
 
 
