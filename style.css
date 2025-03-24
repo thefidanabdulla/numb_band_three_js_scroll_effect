@@ -191,18 +191,18 @@ body {
   }
   #numb_header {
     padding: 0 1rem;
-    height: 60vh;
+    height: 80vh;
   }
   .numb_header_text {
     font-size: 4rem;
   }
   #about {
     padding: 0 1rem;
-    height: 60vh;
+    height: 80vh;
   }
   #contact {
     padding: 0 1rem;
-    height: 60vh;
+    height: 100vh;
   }
 }
 @media screen and (max-width: 488px) {
